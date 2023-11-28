@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winterlead
+- 👋 Hi, I’m Adun Indeewara
 - 👀 I’m interested in learning AI and machine learning
 - 🌱 I’m currently following a degree in software Engineering
 - 📫 I'm not always available here, so if you need to contact me drop me a message in my instagram @Adun_Indeewara
